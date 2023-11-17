@@ -57,7 +57,7 @@ function Scheduleform() {
                         </div>
                         <div className="col-12">
                             <div className="column-btn btncenter">
-                                <button type="submit" name="sendRequest" id="sendRequest" class="btn2">Filter</button>
+                                <button type="submit" name="sendRequest" id="sendRequest" class="btn2">Submit</button>
                             </div>
                         </div>
                     </form>
